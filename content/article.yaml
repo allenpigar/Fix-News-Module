@@ -1,0 +1,969 @@
+
+  - id: "article_0"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin brings home and property insurance to Mississippi"
+      article_link: "https://www.kin.com/news/kin-launches-in-mississippi"
+      article_date: "2023-04-11T00:00:00-05:00"
+      article_summary: null
+      article_image: "3-f894c67-sw9n6x"
+  - id: "article_1"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin secures $100M in capacity with second multi-year catastrophe bond issuance"
+      article_link: "https://www.kin.com/news/kin-closes-second-cat-bond"
+      article_date: "2023-04-05T00:00:00.000-05:00"
+      article_summary: null
+      article_image: "3-f894c55-1kv0tv"
+  - id: "article_2"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin upsizes its Series D round to $109M"
+      article_link: "https://www.kin.com/news/kin-upsizes-series-d-round"
+      article_date: "2023-03-22T00:00:00.000-05:00"
+      article_summary: null
+      article_image: "3-f894c2c-1rwf63"
+  - id: "article_3"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin more than doubles gross written premium, finishes 2022 with $227.5M"
+      article_link: "https://www.kin.com/news/kin-more-than-doubles-gwp-in-2022"
+      article_date: "2023-02-16T00:00:00.000-06:00"
+      article_summary: null
+      article_image: "3-f894c2c-1rwf63"
+  - id: "article_4"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin launches home and property insurance in South Carolina"
+      article_link: "https://www.kin.com/news/kin-launches-in-south-carolina"
+      article_date: "2023-01-17T00:00:00.000-06:00"
+      article_summary: "Palmetto State residents can get accurately priced coverage that meets their specific needs"
+      article_image: "3-f894c98-m316dc"
+  - id: "article_5"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Interinsurance Nexus earns Financial Stability Rating® of A, Exceptional, from Demotech"
+      article_link: "https://www.kin.com/news/kin-earns-fsr-for-second-reciprocal"
+      article_date: "2023-01-05T00:00:00.000-06:00"
+      article_summary: null
+      article_image: "3-f894cf7-40dz2n"
+  - id: "article_6"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance maintains steady year-over-year growth in third quarter, increasing 151% year-to-date"
+      article_link: "https://www.kin.com/news/kin-maintains-steady-yoy-growth-in-q3-2022"
+      article_date: "2022-11-09T00:00:00.000-06:00"
+      article_summary: null
+      article_image: "3-f894c2c-1rwf63"
+  - id: "article_7"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin announces new additions to leadership team"
+      article_link: "https://www.kin.com/news/kin-announces-new-leadership-appointments"
+      article_date: "2022-11-02T00:00:00.000-05:00"
+      article_summary: null
+      article_image: "3-f894c2c-1rwf63"
+  - id: "article_8"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin secures $145M in debt financing to fuel continued growth"
+      article_link: "https://www.kin.com/news/kin-closes-debt-financing"
+      article_date: "2022-10-28T00:00:00.000-05:00"
+      article_summary: null
+      article_image: "3-f894c29-v61tlg"
+  - id: "article_9"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance provides Hurricane Ian update"
+      article_link: "https://www.kin.com/news/kin-insurance-provides-hurricane-ian-update"
+      article_date: "2022-10-21T00:00:00.000-05:00"
+      article_summary: null
+      article_image: "3-f894dcd-wjckrd"
+  - id: "article_10"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Demotech affirms Kin’s Financial Stability Rating® of A, Exceptional"
+      article_link: "https://www.kin.com/news/demotech-affirms-kin-fsr"
+      article_date: "2022-08-02T00:00:00.000-05:00"
+      article_summary: null
+      article_image: "3-f894c99-ssb39b"
+  - id: "article_11"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance surpasses $70M in gross written premium in second quarter, increasing 204% year-to-date"
+      article_link: "https://www.kin.com/news/kin-surpasses-70-million-in-gwp-in-q2"
+      article_date: "2022-08-01T00:00:00.000-05:00"
+      article_summary: null
+      article_image: "3-f894dc4-zpjgc8"
+  - id: "article_12"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin enhances reinsurance program, safeguarding customers who are most vulnerable to climate-related risks"
+      article_link: "/news/kin-enhances-reinsurance-program/"
+      article_date: "2022-06-03T00:00:00.000-05:00"
+      article_summary: "Kin finalized its reinsurance program for the period of June 1, 2022 through May 31, 2023"
+      article_image: "3-f894c99-ssb39b"
+  - id: "article_13"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin grows total written premium by 230% year-over-year"
+      article_link: "/news/kin-exceeds-expectations-in-q1-2022/"
+      article_date: "2022-05-05T00:00:00.000-05:00"
+      article_summary: "Kin exceeds expectations in Q1 2022, moves closer to $250M annual goal"
+      article_image: "3-f894dc4-zpjgc8"
+  - id: "article_14"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin closes first-ever $175M multi-year catastrophe bond"
+      article_link: "/news/kin-closes-cat-bond-transaction/"
+      article_date: "2022-04-18T00:00:00.000-05:00"
+      article_summary: "Kin entered into a multi-year reinsurance arrangement "
+      article_image: "3-f894c99-ssb39b"
+  - id: "article_15"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin announces $82M first close in Series D financing"
+      article_link: "/news/kin-announces-first-close-in-series-d-funding/"
+      article_date: "2022-03-01T23:00:00.000-06:00"
+      article_summary: "QED Investors leads round after record year of growth for Kin."
+      article_image: "3-f894c99-ssb39b"
+  - id: "article_16"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance, Inc. and Omnichannel Acquisition Corp. mutually agree to terminate business combination agreement"
+      article_link: "/news/kin-and-omnichannel-agree-to-terminate-agreement/"
+      article_date: "2022-01-26T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_17"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance exceeds 2021 goal for total managed premium, achieves 320% year-over-year growth"
+      article_link: "/news/kin-exceeds-2021-goal-for-total-managed-premium/"
+      article_date: "2022-01-20T23:00:00.000-06:00"
+      article_summary: "Kin finished 2021 with $104.8 million in Total Managed Premium, four times higher than the $25.0 million of Total Managed Premium at the end of 2020."
+      article_image: "3-f894d24-63sjjh"
+  - id: "article_18"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance completes acquisition of carrier with licenses in 43 states"
+      article_link: "/news/kin-completes-acquisition-of-carrier-licenses-in-43-states/"
+      article_date: "2021-12-15T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_19"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance surges to $11.3 million in total managed premium in November, increasing 327% year-to-date"
+      article_link: "/news/kin-november-2021-total-managed-premium-increase-327-percent-ytd/"
+      article_date: "2021-12-09T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_20"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance sees growth accelerate at the start of fourth quarter, while adjusted loss ratio improves"
+      article_link: "/news/kin-growth-accelerates-in-fourth-quarter-2021-adjusted-loss-ratio-improves/"
+      article_date: "2021-11-10T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_21"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance continues rapid growth trajectory in third quarter 2021"
+      article_link: "/news/kin-continues-rapid-growth-trajectory-third-quarter-2021/"
+      article_date: "2021-10-20T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_22"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance grows total written premium by 287% year-over-year in second quarter 2021"
+      article_link: "/news/kin-grows-total-written-premium-287-percent-yoy-q2-2021/"
+      article_date: "2021-09-10T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_23"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin upgrades reinsurance program, emphasizing commitment to homeowners most impacted by climate change"
+      article_link: "/news/kin-upgrades-reinsurance-program/"
+      article_date: "2021-08-19T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_24"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin, the only pure-play direct-to-consumer home insurance technology company, to go public"
+      article_link: "/news/kin-to-go-public-via-spac/"
+      article_date: "2021-07-19T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_25"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance bolsters leadership team amid rapid growth"
+      article_link: "/news/kin-bolsters-leadership-team-amid-rapid-growth/"
+      article_date: "2021-06-23T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_26"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance announces Series C funding with investment by professional golfer Rory McIlroy and others"
+      article_link: "/news/kin-series-c-funding-with-investment-by-rory-mcilroy/"
+      article_date: "2021-06-03T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_27"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance achieves $100M premium run rate in 1.75 Years"
+      article_link: "/news/kin-achieves-100-million-premium-run-rate/"
+      article_date: "2021-04-19T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_28"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin now offering homeowners policies in Louisiana"
+      article_link: "/news/kin-now-offering-homeowners-policies-in-louisiana/"
+      article_date: "2021-03-23T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_29"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin eclipses $10B in total insured property value"
+      article_link: "/news/kin-eclipses-10-billion-in-total-insured-property-value/"
+      article_date: "2021-02-16T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_30"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance launches landlord insurance in Florida market"
+      article_link: "/news/kin-launches-landlord-insurance-in-florida-market/"
+      article_date: "2021-02-09T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_31"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Cinch® Home Services partners with insurance industry disruptor Kin Insurance"
+      article_link: "/news/cinch-home-services-partners-with-kin-insurance/"
+      article_date: "2020-10-22T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_32"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance expands into California to serve homeowners statewide"
+      article_link: "/news/kin-expands-to-california-to-serve-homeowners-statewide/"
+      article_date: "2020-09-29T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_33"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance selects Snapsheet to deploy end-to-end claims management platform"
+      article_link: "/news/kin-selects-snapsheet-to-deploy-end-to-end-claims-management/"
+      article_date: "2020-08-25T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_34"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance closes $35M Series B to fuel industry disruption"
+      article_link: "/news/kin-closes-35-m-series-b-to-fuel-industry-disruption/"
+      article_date: "2020-08-13T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_35"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance announces condo insurance in Florida"
+      article_link: "/news/kin-announces-condo-ho6-insurance-for-floridians/"
+      article_date: "2020-07-15T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_36"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance partners with Cape Analytics for remote risk assessment"
+      article_link: "/news/kin-partners-with-cape-analytics-for-remote-risk-assessment/"
+      article_date: "2020-04-08T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_37"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance brings new flood coverage to Florida homeowners"
+      article_link: "/news/kin-brings-new-flood-coverage-to-florida-homeowners/"
+      article_date: "2020-01-21T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_38"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin gives Floridians new insurance discounts following passage of assignment of benefits bill"
+      article_link: "/news/kin-offers-new-discounts-following-assignment-of-benefits-bill/"
+      article_date: "2019-12-04T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_39"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Insurtech startup Kin Insurance continues to expand its capacity to serve Florida residents"
+      article_link: "/news/kin-continues-to-expand-its-capacity-to-serve-florida-residents/"
+      article_date: "2019-11-06T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_40"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Insurtech startup Kin Insurance raises $47M to launch carrier in Florida"
+      article_link: "/news/kin-raises-47-m-to-launch-florida-carrier/"
+      article_date: "2019-08-27T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_41"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance raises $13M in financing, welcomes new board member"
+      article_link: "/news/kin-raises-13-m-in-financing-welcomes-new-board-member/"
+      article_date: "2018-06-11T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_42"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance launches AI-based home insurance recommendation platform"
+      article_link: "/news/kin-launches-ai-based-home-insurance-recommendation-platform/"
+      article_date: "2017-09-27T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null
+  - id: "article_43"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      article_title: "Kin Insurance launches modern home insurance, announces $4M financing"
+      article_link: "/news/kin-launches-modern-home-insurance-with-4-m-financing/"
+      article_date: "2017-08-01T23:00:00.000-06:00"
+      article_summary: null
+      article_image: null

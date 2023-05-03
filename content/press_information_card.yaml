@@ -1,0 +1,73 @@
+
+  - id: "press_information_card_0"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      title: "Press inquiries"
+      icon: "mail"
+      icon_color: "#167C80"
+      icon_size: "30"
+      description: "Get in touch with us for all press and speaker inquiries."
+      url_label: "Email Us"
+      url: "mailto:press@kin.com"
+  - id: "press_information_card_1"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      title: "Leadership"
+      icon: "user-circle"
+      icon_color: "#167C80"
+      icon_size: "30"
+      description: "Learn more about the team behind Kin."
+      url_label: "Meet the Team"
+      url: "/about/"
+  - id: "press_information_card_2"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      title: "Press kit"
+      icon: "mail"
+      icon_color: "#167C80"
+      icon_size: "30"
+      description: "Request logos, speaker headshots, and more."
+      url_label: "Get Assets"
+      url: "mailto:press@kin.com"

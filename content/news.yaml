@@ -1,0 +1,26 @@
+- id: "0"
+  web:
+    metaDescription: "See why Kin keeps making headlines. Find important news, awards, interviews, and thought leadership."
+    metaTitle: "Latest News & Stories | Press"
+    metaLinkText: "News"
+    metaKeywords: null
+    pathPart: "news"
+    path: "/news/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Featured News"
+    sub_header: "For all press and speaker questions, email press@kin.com."
+    featured_image: "3-f894c67-sw9n6x"
+    is_feature_clipped: "0"
+    featured_image_alt: "view of beach of south carolina"
+    schemamarkup: null
+    show_banner: "0"
+    body: null
