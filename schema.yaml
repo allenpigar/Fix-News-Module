@@ -44,7 +44,7 @@
       sort: 1
       required: true
       relationship: null
-    - name: "icon"
+    - name: "info_icon"
       label: "Icon"
       description: null
       datatype: "dropdown"
@@ -405,7 +405,6 @@
       sort: 1
       required: true
       relationship: null
-
 - description: null
   label: "Newspaper Card"
   name: "newspaper_card"
@@ -455,7 +454,6 @@
       sort: 1
       required: true
       relationship: null
-
 - description: null
   label: "Article"
   name: "article"
@@ -526,7 +524,6 @@
       sort: 1
       required: true
       relationship: null
-
 - description: null
   label: "Acclaims Article"
   name: "acclaims_article"
@@ -597,7 +594,6 @@
       sort: 1
       required: true
       relationship: null
-
 - description: null
   label: "Spotlights Article"
   name: "spotlight_article"
